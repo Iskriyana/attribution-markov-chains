@@ -1,6 +1,6 @@
 # Data-driven Attribution with Markov Chains
 
-![image](./assets/markov_graph.png)
+<img src="https://github.com/Iskriyana/attribution-markov-chains/blob/main/assets/markov_graph.png" width="400" height="400" style="center"/>
 
 ## Project Description
 The purpose of this mini-project is to show develop a simple data-driven attribution model with Markov Chains
